@@ -1,0 +1,7 @@
+{
+  "name": "PillMate",
+  "description": "An intelligent medicine reminder app that uses voice alerts and buzz notifications to ensure you never miss a dose. Features automated TTS reminders and a high-visibility alarm system.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
